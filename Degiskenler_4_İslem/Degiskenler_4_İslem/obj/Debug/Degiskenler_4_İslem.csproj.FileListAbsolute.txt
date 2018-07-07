@@ -1,0 +1,10 @@
+C:\Users\nefre\source\repos\Degiskenler_4_İslem\Degiskenler_4_İslem\bin\Debug\Degiskenler_4_İslem.exe.config
+C:\Users\nefre\source\repos\Degiskenler_4_İslem\Degiskenler_4_İslem\bin\Debug\Degiskenler_4_İslem.exe
+C:\Users\nefre\source\repos\Degiskenler_4_İslem\Degiskenler_4_İslem\bin\Debug\Degiskenler_4_İslem.pdb
+C:\Users\nefre\source\repos\Degiskenler_4_İslem\Degiskenler_4_İslem\obj\Debug\Degiskenler_4_İslem.csprojAssemblyReference.cache
+C:\Users\nefre\source\repos\Degiskenler_4_İslem\Degiskenler_4_İslem\obj\Debug\Degiskenler_4_İslem.Form1.resources
+C:\Users\nefre\source\repos\Degiskenler_4_İslem\Degiskenler_4_İslem\obj\Debug\Degiskenler_4_İslem.Properties.Resources.resources
+C:\Users\nefre\source\repos\Degiskenler_4_İslem\Degiskenler_4_İslem\obj\Debug\Degiskenler_4_İslem.csproj.GenerateResource.cache
+C:\Users\nefre\source\repos\Degiskenler_4_İslem\Degiskenler_4_İslem\obj\Debug\Degiskenler_4_İslem.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\Degiskenler_4_İslem\Degiskenler_4_İslem\obj\Debug\Degiskenler_4_İslem.exe
+C:\Users\nefre\source\repos\Degiskenler_4_İslem\Degiskenler_4_İslem\obj\Debug\Degiskenler_4_İslem.pdb

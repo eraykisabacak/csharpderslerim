@@ -1,0 +1,10 @@
+C:\Users\nefre\source\repos\Karar_Yapilari\Karar_Yapilari\bin\Debug\Karar_Yapilari.exe.config
+C:\Users\nefre\source\repos\Karar_Yapilari\Karar_Yapilari\bin\Debug\Karar_Yapilari.exe
+C:\Users\nefre\source\repos\Karar_Yapilari\Karar_Yapilari\bin\Debug\Karar_Yapilari.pdb
+C:\Users\nefre\source\repos\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.csprojAssemblyReference.cache
+C:\Users\nefre\source\repos\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.Form1.resources
+C:\Users\nefre\source\repos\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.Properties.Resources.resources
+C:\Users\nefre\source\repos\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.csproj.GenerateResource.cache
+C:\Users\nefre\source\repos\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.exe
+C:\Users\nefre\source\repos\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.pdb

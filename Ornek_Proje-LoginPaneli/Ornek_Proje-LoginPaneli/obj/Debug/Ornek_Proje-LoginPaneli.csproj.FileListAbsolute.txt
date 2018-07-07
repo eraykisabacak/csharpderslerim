@@ -1,0 +1,9 @@
+C:\Users\nefre\Desktop\Udemy - Projeler\Ornek_Proje-LoginPaneli\Ornek_Proje-LoginPaneli\bin\Debug\Ornek_Proje-LoginPaneli.exe.config
+C:\Users\nefre\Desktop\Udemy - Projeler\Ornek_Proje-LoginPaneli\Ornek_Proje-LoginPaneli\bin\Debug\Ornek_Proje-LoginPaneli.exe
+C:\Users\nefre\Desktop\Udemy - Projeler\Ornek_Proje-LoginPaneli\Ornek_Proje-LoginPaneli\bin\Debug\Ornek_Proje-LoginPaneli.pdb
+C:\Users\nefre\Desktop\Udemy - Projeler\Ornek_Proje-LoginPaneli\Ornek_Proje-LoginPaneli\obj\Debug\Ornek_Proje_LoginPaneli.Form1.resources
+C:\Users\nefre\Desktop\Udemy - Projeler\Ornek_Proje-LoginPaneli\Ornek_Proje-LoginPaneli\obj\Debug\Ornek_Proje_LoginPaneli.Properties.Resources.resources
+C:\Users\nefre\Desktop\Udemy - Projeler\Ornek_Proje-LoginPaneli\Ornek_Proje-LoginPaneli\obj\Debug\Ornek_Proje-LoginPaneli.csproj.GenerateResource.cache
+C:\Users\nefre\Desktop\Udemy - Projeler\Ornek_Proje-LoginPaneli\Ornek_Proje-LoginPaneli\obj\Debug\Ornek_Proje-LoginPaneli.csproj.CoreCompileInputs.cache
+C:\Users\nefre\Desktop\Udemy - Projeler\Ornek_Proje-LoginPaneli\Ornek_Proje-LoginPaneli\obj\Debug\Ornek_Proje-LoginPaneli.exe
+C:\Users\nefre\Desktop\Udemy - Projeler\Ornek_Proje-LoginPaneli\Ornek_Proje-LoginPaneli\obj\Debug\Ornek_Proje-LoginPaneli.pdb

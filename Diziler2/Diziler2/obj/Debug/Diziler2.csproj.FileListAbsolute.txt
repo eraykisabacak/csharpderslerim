@@ -1,0 +1,9 @@
+C:\Users\nefre\source\repos\Diziler2\Diziler2\bin\Debug\Diziler2.exe.config
+C:\Users\nefre\source\repos\Diziler2\Diziler2\bin\Debug\Diziler2.exe
+C:\Users\nefre\source\repos\Diziler2\Diziler2\bin\Debug\Diziler2.pdb
+C:\Users\nefre\source\repos\Diziler2\Diziler2\obj\Debug\Diziler2.Form1.resources
+C:\Users\nefre\source\repos\Diziler2\Diziler2\obj\Debug\Diziler2.Properties.Resources.resources
+C:\Users\nefre\source\repos\Diziler2\Diziler2\obj\Debug\Diziler2.csproj.GenerateResource.cache
+C:\Users\nefre\source\repos\Diziler2\Diziler2\obj\Debug\Diziler2.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\Diziler2\Diziler2\obj\Debug\Diziler2.exe
+C:\Users\nefre\source\repos\Diziler2\Diziler2\obj\Debug\Diziler2.pdb

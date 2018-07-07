@@ -1,0 +1,10 @@
+C:\Users\nefre\source\repos\Degiskenler_int2\Degiskenler_int2\bin\Debug\Degiskenler_int2.exe.config
+C:\Users\nefre\source\repos\Degiskenler_int2\Degiskenler_int2\bin\Debug\Degiskenler_int2.exe
+C:\Users\nefre\source\repos\Degiskenler_int2\Degiskenler_int2\bin\Debug\Degiskenler_int2.pdb
+C:\Users\nefre\source\repos\Degiskenler_int2\Degiskenler_int2\obj\Debug\Degiskenler_int2.csprojAssemblyReference.cache
+C:\Users\nefre\source\repos\Degiskenler_int2\Degiskenler_int2\obj\Debug\Degiskenler_int2.Form1.resources
+C:\Users\nefre\source\repos\Degiskenler_int2\Degiskenler_int2\obj\Debug\Degiskenler_int2.Properties.Resources.resources
+C:\Users\nefre\source\repos\Degiskenler_int2\Degiskenler_int2\obj\Debug\Degiskenler_int2.csproj.GenerateResource.cache
+C:\Users\nefre\source\repos\Degiskenler_int2\Degiskenler_int2\obj\Debug\Degiskenler_int2.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\Degiskenler_int2\Degiskenler_int2\obj\Debug\Degiskenler_int2.exe
+C:\Users\nefre\source\repos\Degiskenler_int2\Degiskenler_int2\obj\Debug\Degiskenler_int2.pdb

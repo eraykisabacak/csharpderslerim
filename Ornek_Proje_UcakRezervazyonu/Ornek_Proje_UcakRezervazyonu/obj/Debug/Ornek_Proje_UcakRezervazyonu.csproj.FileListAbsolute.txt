@@ -1,0 +1,10 @@
+C:\Users\nefre\Desktop\Udemy - Projeler\Ornek_Proje_UcakRezervazyonu\Ornek_Proje_UcakRezervazyonu\bin\Debug\Ornek_Proje_UcakRezervazyonu.exe.config
+C:\Users\nefre\Desktop\Udemy - Projeler\Ornek_Proje_UcakRezervazyonu\Ornek_Proje_UcakRezervazyonu\bin\Debug\Ornek_Proje_UcakRezervazyonu.exe
+C:\Users\nefre\Desktop\Udemy - Projeler\Ornek_Proje_UcakRezervazyonu\Ornek_Proje_UcakRezervazyonu\bin\Debug\Ornek_Proje_UcakRezervazyonu.pdb
+C:\Users\nefre\Desktop\Udemy - Projeler\Ornek_Proje_UcakRezervazyonu\Ornek_Proje_UcakRezervazyonu\obj\Debug\Ornek_Proje_UcakRezervazyonu.Form1.resources
+C:\Users\nefre\Desktop\Udemy - Projeler\Ornek_Proje_UcakRezervazyonu\Ornek_Proje_UcakRezervazyonu\obj\Debug\Ornek_Proje_UcakRezervazyonu.Properties.Resources.resources
+C:\Users\nefre\Desktop\Udemy - Projeler\Ornek_Proje_UcakRezervazyonu\Ornek_Proje_UcakRezervazyonu\obj\Debug\Ornek_Proje_UcakRezervazyonu.csproj.GenerateResource.cache
+C:\Users\nefre\Desktop\Udemy - Projeler\Ornek_Proje_UcakRezervazyonu\Ornek_Proje_UcakRezervazyonu\obj\Debug\Ornek_Proje_UcakRezervazyonu.csproj.CoreCompileInputs.cache
+C:\Users\nefre\Desktop\Udemy - Projeler\Ornek_Proje_UcakRezervazyonu\Ornek_Proje_UcakRezervazyonu\obj\Debug\Ornek_Proje_UcakRezervazyonu.exe
+C:\Users\nefre\Desktop\Udemy - Projeler\Ornek_Proje_UcakRezervazyonu\Ornek_Proje_UcakRezervazyonu\obj\Debug\Ornek_Proje_UcakRezervazyonu.pdb
+C:\Users\nefre\Desktop\Udemy - Projeler\Ornek_Proje_UcakRezervazyonu\Ornek_Proje_UcakRezervazyonu\obj\Debug\Ornek_Proje_UcakRezervazyonu.csprojAssemblyReference.cache

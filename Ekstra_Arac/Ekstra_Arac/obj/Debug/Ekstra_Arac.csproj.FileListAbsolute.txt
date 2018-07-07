@@ -1,0 +1,9 @@
+C:\Users\nefre\source\repos\Ekstra_Arac\Ekstra_Arac\bin\Debug\Ekstra_Arac.exe.config
+C:\Users\nefre\source\repos\Ekstra_Arac\Ekstra_Arac\bin\Debug\Ekstra_Arac.exe
+C:\Users\nefre\source\repos\Ekstra_Arac\Ekstra_Arac\bin\Debug\Ekstra_Arac.pdb
+C:\Users\nefre\source\repos\Ekstra_Arac\Ekstra_Arac\obj\Debug\Ekstra_Arac.Form1.resources
+C:\Users\nefre\source\repos\Ekstra_Arac\Ekstra_Arac\obj\Debug\Ekstra_Arac.Properties.Resources.resources
+C:\Users\nefre\source\repos\Ekstra_Arac\Ekstra_Arac\obj\Debug\Ekstra_Arac.csproj.GenerateResource.cache
+C:\Users\nefre\source\repos\Ekstra_Arac\Ekstra_Arac\obj\Debug\Ekstra_Arac.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\Ekstra_Arac\Ekstra_Arac\obj\Debug\Ekstra_Arac.exe
+C:\Users\nefre\source\repos\Ekstra_Arac\Ekstra_Arac\obj\Debug\Ekstra_Arac.pdb

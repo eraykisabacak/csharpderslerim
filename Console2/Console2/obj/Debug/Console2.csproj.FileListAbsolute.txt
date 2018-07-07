@@ -1,0 +1,7 @@
+C:\Users\nefre\source\repos\Console2\Console2\bin\Debug\Console2.exe.config
+C:\Users\nefre\source\repos\Console2\Console2\bin\Debug\Console2.exe
+C:\Users\nefre\source\repos\Console2\Console2\bin\Debug\Console2.pdb
+C:\Users\nefre\source\repos\Console2\Console2\obj\Debug\Console2.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\Console2\Console2\obj\Debug\Console2.exe
+C:\Users\nefre\source\repos\Console2\Console2\obj\Debug\Console2.pdb
+C:\Users\nefre\source\repos\Console2\Console2\obj\Debug\Console2.csprojAssemblyReference.cache

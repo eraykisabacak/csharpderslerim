@@ -1,0 +1,9 @@
+C:\Users\nefre\source\repos\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\bin\Debug\Degiskenler_Egzersiz_Double.exe.config
+C:\Users\nefre\source\repos\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\bin\Debug\Degiskenler_Egzersiz_Double.exe
+C:\Users\nefre\source\repos\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\bin\Debug\Degiskenler_Egzersiz_Double.pdb
+C:\Users\nefre\source\repos\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\obj\Debug\Degiskenler_Egzersiz_Double.Form1.resources
+C:\Users\nefre\source\repos\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\obj\Debug\Degiskenler_Egzersiz_Double.Properties.Resources.resources
+C:\Users\nefre\source\repos\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\obj\Debug\Degiskenler_Egzersiz_Double.csproj.GenerateResource.cache
+C:\Users\nefre\source\repos\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\obj\Debug\Degiskenler_Egzersiz_Double.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\obj\Debug\Degiskenler_Egzersiz_Double.exe
+C:\Users\nefre\source\repos\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\obj\Debug\Degiskenler_Egzersiz_Double.pdb

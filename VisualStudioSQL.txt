@@ -1,0 +1,1 @@
+Data Source=DESKTOP-HAIF4DU\SQLEXPRESS;Initial Catalog=PersonelVeriTabani;Integrated Security=True

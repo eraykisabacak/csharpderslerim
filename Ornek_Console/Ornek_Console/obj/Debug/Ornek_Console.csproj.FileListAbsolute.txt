@@ -1,0 +1,7 @@
+C:\Users\nefre\source\repos\Ornek_Console\Ornek_Console\bin\Debug\Ornek_Console.exe.config
+C:\Users\nefre\source\repos\Ornek_Console\Ornek_Console\bin\Debug\Ornek_Console.exe
+C:\Users\nefre\source\repos\Ornek_Console\Ornek_Console\bin\Debug\Ornek_Console.pdb
+C:\Users\nefre\source\repos\Ornek_Console\Ornek_Console\obj\Debug\Ornek_Console.csprojAssemblyReference.cache
+C:\Users\nefre\source\repos\Ornek_Console\Ornek_Console\obj\Debug\Ornek_Console.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\Ornek_Console\Ornek_Console\obj\Debug\Ornek_Console.exe
+C:\Users\nefre\source\repos\Ornek_Console\Ornek_Console\obj\Debug\Ornek_Console.pdb

@@ -1,0 +1,9 @@
+C:\Users\nefre\source\repos\SayısalLoto\SayısalLoto\bin\Debug\SayısalLoto.exe.config
+C:\Users\nefre\source\repos\SayısalLoto\SayısalLoto\bin\Debug\SayısalLoto.exe
+C:\Users\nefre\source\repos\SayısalLoto\SayısalLoto\bin\Debug\SayısalLoto.pdb
+C:\Users\nefre\source\repos\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.Form1.resources
+C:\Users\nefre\source\repos\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.Properties.Resources.resources
+C:\Users\nefre\source\repos\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.csproj.GenerateResource.cache
+C:\Users\nefre\source\repos\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.exe
+C:\Users\nefre\source\repos\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.pdb

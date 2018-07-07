@@ -1,0 +1,9 @@
+C:\Users\nefre\source\repos\Enum_Kullanimi\Enum_Kullanimi\bin\Debug\Enum_Kullanimi.exe.config
+C:\Users\nefre\source\repos\Enum_Kullanimi\Enum_Kullanimi\bin\Debug\Enum_Kullanimi.exe
+C:\Users\nefre\source\repos\Enum_Kullanimi\Enum_Kullanimi\bin\Debug\Enum_Kullanimi.pdb
+C:\Users\nefre\source\repos\Enum_Kullanimi\Enum_Kullanimi\obj\Debug\Enum_Kullanimi.Form1.resources
+C:\Users\nefre\source\repos\Enum_Kullanimi\Enum_Kullanimi\obj\Debug\Enum_Kullanimi.Properties.Resources.resources
+C:\Users\nefre\source\repos\Enum_Kullanimi\Enum_Kullanimi\obj\Debug\Enum_Kullanimi.csproj.GenerateResource.cache
+C:\Users\nefre\source\repos\Enum_Kullanimi\Enum_Kullanimi\obj\Debug\Enum_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\Enum_Kullanimi\Enum_Kullanimi\obj\Debug\Enum_Kullanimi.exe
+C:\Users\nefre\source\repos\Enum_Kullanimi\Enum_Kullanimi\obj\Debug\Enum_Kullanimi.pdb

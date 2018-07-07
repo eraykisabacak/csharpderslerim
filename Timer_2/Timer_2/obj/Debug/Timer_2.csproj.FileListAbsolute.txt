@@ -1,0 +1,9 @@
+C:\Users\nefre\source\repos\Timer_2\Timer_2\bin\Debug\Timer_2.exe.config
+C:\Users\nefre\source\repos\Timer_2\Timer_2\bin\Debug\Timer_2.exe
+C:\Users\nefre\source\repos\Timer_2\Timer_2\bin\Debug\Timer_2.pdb
+C:\Users\nefre\source\repos\Timer_2\Timer_2\obj\Debug\Timer_2.Form1.resources
+C:\Users\nefre\source\repos\Timer_2\Timer_2\obj\Debug\Timer_2.Properties.Resources.resources
+C:\Users\nefre\source\repos\Timer_2\Timer_2\obj\Debug\Timer_2.csproj.GenerateResource.cache
+C:\Users\nefre\source\repos\Timer_2\Timer_2\obj\Debug\Timer_2.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\Timer_2\Timer_2\obj\Debug\Timer_2.exe
+C:\Users\nefre\source\repos\Timer_2\Timer_2\obj\Debug\Timer_2.pdb

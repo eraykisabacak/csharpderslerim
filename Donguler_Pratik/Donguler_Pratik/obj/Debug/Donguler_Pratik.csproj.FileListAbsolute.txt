@@ -1,0 +1,10 @@
+C:\Users\nefre\source\repos\Donguler_Pratik\Donguler_Pratik\bin\Debug\Donguler_Pratik.exe.config
+C:\Users\nefre\source\repos\Donguler_Pratik\Donguler_Pratik\bin\Debug\Donguler_Pratik.exe
+C:\Users\nefre\source\repos\Donguler_Pratik\Donguler_Pratik\bin\Debug\Donguler_Pratik.pdb
+C:\Users\nefre\source\repos\Donguler_Pratik\Donguler_Pratik\obj\Debug\Donguler_Pratik.csprojAssemblyReference.cache
+C:\Users\nefre\source\repos\Donguler_Pratik\Donguler_Pratik\obj\Debug\Donguler_Pratik.Form1.resources
+C:\Users\nefre\source\repos\Donguler_Pratik\Donguler_Pratik\obj\Debug\Donguler_Pratik.Properties.Resources.resources
+C:\Users\nefre\source\repos\Donguler_Pratik\Donguler_Pratik\obj\Debug\Donguler_Pratik.csproj.GenerateResource.cache
+C:\Users\nefre\source\repos\Donguler_Pratik\Donguler_Pratik\obj\Debug\Donguler_Pratik.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\Donguler_Pratik\Donguler_Pratik\obj\Debug\Donguler_Pratik.exe
+C:\Users\nefre\source\repos\Donguler_Pratik\Donguler_Pratik\obj\Debug\Donguler_Pratik.pdb

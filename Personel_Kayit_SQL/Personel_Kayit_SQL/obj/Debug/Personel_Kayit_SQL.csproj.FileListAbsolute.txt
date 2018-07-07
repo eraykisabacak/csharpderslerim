@@ -1,0 +1,13 @@
+C:\Users\nefre\source\repos\Personel_Kayit_SQL\Personel_Kayit_SQL\bin\Debug\Personel_Kayit_SQL.exe.config
+C:\Users\nefre\source\repos\Personel_Kayit_SQL\Personel_Kayit_SQL\bin\Debug\Personel_Kayit_SQL.exe
+C:\Users\nefre\source\repos\Personel_Kayit_SQL\Personel_Kayit_SQL\bin\Debug\Personel_Kayit_SQL.pdb
+C:\Users\nefre\source\repos\Personel_Kayit_SQL\Personel_Kayit_SQL\obj\Debug\Personel_Kayit_SQL.csprojAssemblyReference.cache
+C:\Users\nefre\source\repos\Personel_Kayit_SQL\Personel_Kayit_SQL\obj\Debug\Personel_Kayit_SQL.Properties.Resources.resources
+C:\Users\nefre\source\repos\Personel_Kayit_SQL\Personel_Kayit_SQL\obj\Debug\Personel_Kayit_SQL.csproj.GenerateResource.cache
+C:\Users\nefre\source\repos\Personel_Kayit_SQL\Personel_Kayit_SQL\obj\Debug\Personel_Kayit_SQL.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\Personel_Kayit_SQL\Personel_Kayit_SQL\obj\Debug\Personel_Kayit_SQL.exe
+C:\Users\nefre\source\repos\Personel_Kayit_SQL\Personel_Kayit_SQL\obj\Debug\Personel_Kayit_SQL.pdb
+C:\Users\nefre\source\repos\Personel_Kayit_SQL\Personel_Kayit_SQL\obj\Debug\Personel_Kayit_SQL.Frmistatistik.resources
+C:\Users\nefre\source\repos\Personel_Kayit_SQL\Personel_Kayit_SQL\obj\Debug\Personel_Kayit_SQL.FrmAnaForm.resources
+C:\Users\nefre\source\repos\Personel_Kayit_SQL\Personel_Kayit_SQL\obj\Debug\Personel_Kayit_SQL.FrmGrafikler.resources
+C:\Users\nefre\source\repos\Personel_Kayit_SQL\Personel_Kayit_SQL\obj\Debug\Personel_Kayit_SQL.FrmGiris.resources

@@ -1,0 +1,10 @@
+C:\Users\nefre\source\repos\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.csprojAssemblyReference.cache
+C:\Users\nefre\source\repos\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.Form1.resources
+C:\Users\nefre\source\repos\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.Properties.Resources.resources
+C:\Users\nefre\source\repos\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.csproj.GenerateResource.cache
+C:\Users\nefre\source\repos\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\Degiskenler_Double\Degiskenler_Double\bin\Debug\Degiskenler_Double.exe.config
+C:\Users\nefre\source\repos\Degiskenler_Double\Degiskenler_Double\bin\Debug\Degiskenler_Double.exe
+C:\Users\nefre\source\repos\Degiskenler_Double\Degiskenler_Double\bin\Debug\Degiskenler_Double.pdb
+C:\Users\nefre\source\repos\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.exe
+C:\Users\nefre\source\repos\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.pdb

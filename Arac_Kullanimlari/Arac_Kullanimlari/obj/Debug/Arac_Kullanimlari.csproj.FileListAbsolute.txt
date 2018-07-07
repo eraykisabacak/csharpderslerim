@@ -1,0 +1,13 @@
+C:\Users\nefre\Desktop\Udemy - Projeler\Arac_Kullanimlari\Arac_Kullanimlari\bin\Debug\Arac_Kullanimlari.exe.config
+C:\Users\nefre\Desktop\Udemy - Projeler\Arac_Kullanimlari\Arac_Kullanimlari\bin\Debug\Arac_Kullanimlari.exe
+C:\Users\nefre\Desktop\Udemy - Projeler\Arac_Kullanimlari\Arac_Kullanimlari\bin\Debug\Arac_Kullanimlari.pdb
+C:\Users\nefre\Desktop\Udemy - Projeler\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.csprojAssemblyReference.cache
+C:\Users\nefre\Desktop\Udemy - Projeler\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.Form1.resources
+C:\Users\nefre\Desktop\Udemy - Projeler\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.Properties.Resources.resources
+C:\Users\nefre\Desktop\Udemy - Projeler\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.csproj.GenerateResource.cache
+C:\Users\nefre\Desktop\Udemy - Projeler\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.csproj.CoreCompileInputs.cache
+C:\Users\nefre\Desktop\Udemy - Projeler\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.exe
+C:\Users\nefre\Desktop\Udemy - Projeler\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.pdb
+C:\Users\nefre\Desktop\Udemy - Projeler\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.Form2.resources
+C:\Users\nefre\Desktop\Udemy - Projeler\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.Form3.resources
+C:\Users\nefre\Desktop\Udemy - Projeler\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.Form4.resources

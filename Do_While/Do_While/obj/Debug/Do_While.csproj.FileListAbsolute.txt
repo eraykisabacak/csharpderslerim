@@ -1,0 +1,10 @@
+C:\Users\nefre\source\repos\Do_While\Do_While\bin\Debug\Do_While.exe.config
+C:\Users\nefre\source\repos\Do_While\Do_While\bin\Debug\Do_While.exe
+C:\Users\nefre\source\repos\Do_While\Do_While\bin\Debug\Do_While.pdb
+C:\Users\nefre\source\repos\Do_While\Do_While\obj\Debug\Do_While.csprojAssemblyReference.cache
+C:\Users\nefre\source\repos\Do_While\Do_While\obj\Debug\Do_While.Form1.resources
+C:\Users\nefre\source\repos\Do_While\Do_While\obj\Debug\Do_While.Properties.Resources.resources
+C:\Users\nefre\source\repos\Do_While\Do_While\obj\Debug\Do_While.csproj.GenerateResource.cache
+C:\Users\nefre\source\repos\Do_While\Do_While\obj\Debug\Do_While.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\Do_While\Do_While\obj\Debug\Do_While.exe
+C:\Users\nefre\source\repos\Do_While\Do_While\obj\Debug\Do_While.pdb

@@ -1,0 +1,9 @@
+C:\Users\nefre\source\repos\Point_Kullanımı\Point_Kullanımı\bin\Debug\Point_Kullanımı.exe.config
+C:\Users\nefre\source\repos\Point_Kullanımı\Point_Kullanımı\bin\Debug\Point_Kullanımı.exe
+C:\Users\nefre\source\repos\Point_Kullanımı\Point_Kullanımı\bin\Debug\Point_Kullanımı.pdb
+C:\Users\nefre\source\repos\Point_Kullanımı\Point_Kullanımı\obj\Debug\Point_Kullanımı.Form1.resources
+C:\Users\nefre\source\repos\Point_Kullanımı\Point_Kullanımı\obj\Debug\Point_Kullanımı.Properties.Resources.resources
+C:\Users\nefre\source\repos\Point_Kullanımı\Point_Kullanımı\obj\Debug\Point_Kullanımı.csproj.GenerateResource.cache
+C:\Users\nefre\source\repos\Point_Kullanımı\Point_Kullanımı\obj\Debug\Point_Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\Point_Kullanımı\Point_Kullanımı\obj\Debug\Point_Kullanımı.exe
+C:\Users\nefre\source\repos\Point_Kullanımı\Point_Kullanımı\obj\Debug\Point_Kullanımı.pdb

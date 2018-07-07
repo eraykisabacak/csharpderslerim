@@ -1,0 +1,15 @@
+C:\Users\nefre\source\repos\Pdf_Dosyasi\Pdf_Dosyasi\bin\Debug\Pdf_Dosyasi.exe.config
+C:\Users\nefre\source\repos\Pdf_Dosyasi\Pdf_Dosyasi\bin\Debug\Pdf_Dosyasi.exe
+C:\Users\nefre\source\repos\Pdf_Dosyasi\Pdf_Dosyasi\bin\Debug\Pdf_Dosyasi.pdb
+C:\Users\nefre\source\repos\Pdf_Dosyasi\Pdf_Dosyasi\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\nefre\source\repos\Pdf_Dosyasi\Pdf_Dosyasi\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\nefre\source\repos\Pdf_Dosyasi\Pdf_Dosyasi\obj\Debug\Pdf_Dosyasi.csprojAssemblyReference.cache
+C:\Users\nefre\source\repos\Pdf_Dosyasi\Pdf_Dosyasi\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\nefre\source\repos\Pdf_Dosyasi\Pdf_Dosyasi\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\nefre\source\repos\Pdf_Dosyasi\Pdf_Dosyasi\obj\Debug\Pdf_Dosyasi.csproj.ResolveComReference.cache
+C:\Users\nefre\source\repos\Pdf_Dosyasi\Pdf_Dosyasi\obj\Debug\Pdf_Dosyasi.Form1.resources
+C:\Users\nefre\source\repos\Pdf_Dosyasi\Pdf_Dosyasi\obj\Debug\Pdf_Dosyasi.Properties.Resources.resources
+C:\Users\nefre\source\repos\Pdf_Dosyasi\Pdf_Dosyasi\obj\Debug\Pdf_Dosyasi.csproj.GenerateResource.cache
+C:\Users\nefre\source\repos\Pdf_Dosyasi\Pdf_Dosyasi\obj\Debug\Pdf_Dosyasi.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\Pdf_Dosyasi\Pdf_Dosyasi\obj\Debug\Pdf_Dosyasi.exe
+C:\Users\nefre\source\repos\Pdf_Dosyasi\Pdf_Dosyasi\obj\Debug\Pdf_Dosyasi.pdb

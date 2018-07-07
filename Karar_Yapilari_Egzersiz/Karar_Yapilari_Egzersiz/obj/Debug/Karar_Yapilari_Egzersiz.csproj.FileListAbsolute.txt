@@ -1,0 +1,10 @@
+C:\Users\nefre\source\repos\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\bin\Debug\Karar_Yapilari_Egzersiz.exe.config
+C:\Users\nefre\source\repos\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\bin\Debug\Karar_Yapilari_Egzersiz.exe
+C:\Users\nefre\source\repos\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\bin\Debug\Karar_Yapilari_Egzersiz.pdb
+C:\Users\nefre\source\repos\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.csprojAssemblyReference.cache
+C:\Users\nefre\source\repos\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.Form1.resources
+C:\Users\nefre\source\repos\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.Properties.Resources.resources
+C:\Users\nefre\source\repos\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.csproj.GenerateResource.cache
+C:\Users\nefre\source\repos\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.exe
+C:\Users\nefre\source\repos\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.pdb

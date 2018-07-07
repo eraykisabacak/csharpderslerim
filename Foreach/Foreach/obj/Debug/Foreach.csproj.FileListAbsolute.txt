@@ -1,0 +1,10 @@
+C:\Users\nefre\source\repos\Foreach\Foreach\bin\Debug\Foreach.exe.config
+C:\Users\nefre\source\repos\Foreach\Foreach\bin\Debug\Foreach.exe
+C:\Users\nefre\source\repos\Foreach\Foreach\bin\Debug\Foreach.pdb
+C:\Users\nefre\source\repos\Foreach\Foreach\obj\Debug\Foreach.csprojAssemblyReference.cache
+C:\Users\nefre\source\repos\Foreach\Foreach\obj\Debug\Foreach.Form1.resources
+C:\Users\nefre\source\repos\Foreach\Foreach\obj\Debug\Foreach.Properties.Resources.resources
+C:\Users\nefre\source\repos\Foreach\Foreach\obj\Debug\Foreach.csproj.GenerateResource.cache
+C:\Users\nefre\source\repos\Foreach\Foreach\obj\Debug\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\Foreach\Foreach\obj\Debug\Foreach.exe
+C:\Users\nefre\source\repos\Foreach\Foreach\obj\Debug\Foreach.pdb

@@ -1,0 +1,10 @@
+C:\Users\nefre\source\repos\Metin_belgesi_kaydetme\Metin_belgesi_kaydetme\bin\Debug\Metin_belgesi_kaydetme.exe.config
+C:\Users\nefre\source\repos\Metin_belgesi_kaydetme\Metin_belgesi_kaydetme\bin\Debug\Metin_belgesi_kaydetme.exe
+C:\Users\nefre\source\repos\Metin_belgesi_kaydetme\Metin_belgesi_kaydetme\bin\Debug\Metin_belgesi_kaydetme.pdb
+C:\Users\nefre\source\repos\Metin_belgesi_kaydetme\Metin_belgesi_kaydetme\obj\Debug\Metin_belgesi_kaydetme.csprojAssemblyReference.cache
+C:\Users\nefre\source\repos\Metin_belgesi_kaydetme\Metin_belgesi_kaydetme\obj\Debug\Metin_belgesi_kaydetme.Form1.resources
+C:\Users\nefre\source\repos\Metin_belgesi_kaydetme\Metin_belgesi_kaydetme\obj\Debug\Metin_belgesi_kaydetme.Properties.Resources.resources
+C:\Users\nefre\source\repos\Metin_belgesi_kaydetme\Metin_belgesi_kaydetme\obj\Debug\Metin_belgesi_kaydetme.csproj.GenerateResource.cache
+C:\Users\nefre\source\repos\Metin_belgesi_kaydetme\Metin_belgesi_kaydetme\obj\Debug\Metin_belgesi_kaydetme.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\Metin_belgesi_kaydetme\Metin_belgesi_kaydetme\obj\Debug\Metin_belgesi_kaydetme.exe
+C:\Users\nefre\source\repos\Metin_belgesi_kaydetme\Metin_belgesi_kaydetme\obj\Debug\Metin_belgesi_kaydetme.pdb

@@ -1,0 +1,10 @@
+C:\Users\nefre\source\repos\RandomKullanımı\RandomKullanımı\bin\Debug\RandomKullanımı.exe.config
+C:\Users\nefre\source\repos\RandomKullanımı\RandomKullanımı\bin\Debug\RandomKullanımı.exe
+C:\Users\nefre\source\repos\RandomKullanımı\RandomKullanımı\bin\Debug\RandomKullanımı.pdb
+C:\Users\nefre\source\repos\RandomKullanımı\RandomKullanımı\obj\Debug\RandomKullanımı.csprojAssemblyReference.cache
+C:\Users\nefre\source\repos\RandomKullanımı\RandomKullanımı\obj\Debug\RandomKullanımı.Form1.resources
+C:\Users\nefre\source\repos\RandomKullanımı\RandomKullanımı\obj\Debug\RandomKullanımı.Properties.Resources.resources
+C:\Users\nefre\source\repos\RandomKullanımı\RandomKullanımı\obj\Debug\RandomKullanımı.csproj.GenerateResource.cache
+C:\Users\nefre\source\repos\RandomKullanımı\RandomKullanımı\obj\Debug\RandomKullanımı.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\RandomKullanımı\RandomKullanımı\obj\Debug\RandomKullanımı.exe
+C:\Users\nefre\source\repos\RandomKullanımı\RandomKullanımı\obj\Debug\RandomKullanımı.pdb

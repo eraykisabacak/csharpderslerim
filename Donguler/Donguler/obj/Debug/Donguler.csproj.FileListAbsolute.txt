@@ -1,0 +1,10 @@
+C:\Users\nefre\source\repos\Donguler\Donguler\bin\Debug\Donguler.exe.config
+C:\Users\nefre\source\repos\Donguler\Donguler\bin\Debug\Donguler.exe
+C:\Users\nefre\source\repos\Donguler\Donguler\bin\Debug\Donguler.pdb
+C:\Users\nefre\source\repos\Donguler\Donguler\obj\Debug\Donguler.csprojAssemblyReference.cache
+C:\Users\nefre\source\repos\Donguler\Donguler\obj\Debug\Donguler.Form1.resources
+C:\Users\nefre\source\repos\Donguler\Donguler\obj\Debug\Donguler.Properties.Resources.resources
+C:\Users\nefre\source\repos\Donguler\Donguler\obj\Debug\Donguler.csproj.GenerateResource.cache
+C:\Users\nefre\source\repos\Donguler\Donguler\obj\Debug\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\Donguler\Donguler\obj\Debug\Donguler.exe
+C:\Users\nefre\source\repos\Donguler\Donguler\obj\Debug\Donguler.pdb
